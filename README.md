@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **KyleNT/kylent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Não vai acreditar, mas a quantidade de livros que tenho são 5!
 
 <div>
-![KyleNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylent&show_icons=true&theme=tokyonight)
+[KyleNT's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylent&show_icons=true&theme=tokyonight)
 </div>
 
 <div style="display: inline_block"><br>
