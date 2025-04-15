@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylent&layout=compact" />
 </div>
 
-## Mst used languages
+## Most used languages
 <div>
  <a href="https://github.com/kylent/github-readme-stats">
   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylent&layout=donut-vertical" />
