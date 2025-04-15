@@ -13,21 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello, Hallo, Hola, Kon'nichiwa, Olá! Eu sou KyleNT! 👋
+## Hello, Hallo, Hola, Kon'nichiwa, Olá! I'm KyleNT! 👋
 
-- 🔭 Atualmente faço projetos de de C e C++
-- 🌱 Estudando C++
-- 📫 Contate-me em: nes.wil.con64@gmail.com
+- 🔭 Currently, I do C and C++ projects
+- 🌱 Studying C++
+- 📫 Contact me: nes.wil.con64@gmail.com
 
-- ⚡ Fun fact: Não vai acreditar, mas a quantidade de livros que tenho são 5!
+- ⚡ Fun fact: You won't believe it, but the amount of books I have is 5!
 
-## Estatísticas
+## Statistics
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kylent&show_icons=true&theme=tokyonight" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylent&layout=compact" />
 </div>
 
-## Linguagens mais usadas
+## Mst used languages
 <div>
  <a href="https://github.com/kylent/github-readme-stats">
   <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylent&layout=donut-vertical" />
